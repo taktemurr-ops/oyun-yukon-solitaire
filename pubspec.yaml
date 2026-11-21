@@ -1,0 +1,24 @@
+name: oyun_yukon_solitaire
+description: "Yukon – Kart Oyunları merkez uygulamasının oyunu."
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: b0baaf5f52a8615c54ca42b68ceeb95a8eba37fe
+  kart_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/kart-motoru
+      ref: 40fdcd186c0a0e705281ae590cbabf3801b05a6b
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
