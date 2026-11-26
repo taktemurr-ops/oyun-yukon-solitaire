@@ -16,7 +16,7 @@ dependencies:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: b46506e98b62785013747eb26b4b5f9f22d92872
+      ref: d85db23fa44b5403c49c225bfc91370a89d1e195
 
 dev_dependencies:
   flutter_test:
