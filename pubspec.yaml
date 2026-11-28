@@ -12,7 +12,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
